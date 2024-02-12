@@ -4,7 +4,7 @@ Estou no último semestre de ADS, sou muito curiosa e apaixonada pelo universo t
 trabalhei como dev backend júnior por 1 ano em uma startup de consultoria, onde tive a oportunidade de trabalhar com Ruby on rails</p>
 - Atualmente estou me aprofundando na área de Front-end, com react js, e pretendo continuar aprimorando meus conhecimentos no desenvolvimento web
 </br>
-- 👀 Nas horas livres, gosto de me aventurar na cozinha, sou fã de masterchef, então gosto de inventar moda hahaha, também gosto de ler, e praticar atividades físicas<br>
+- 👀 Nas horas livres, gosto de me aventurar na cozinha, sou fã de masterchef, então gosto de inventar moda hahaha, também gosto de ler, e criar itens de decoração com reciclagem <3 <br>
 - 📫 Meu linkedIn, fique a vontade para me adicionar https://www.linkedin.com/in/dayanadias/
 
 <!---
